@@ -1,13 +1,13 @@
 {
-  "name": "[Your Name]",
+  "name": "Charan Singh",
   "title": "Full Stack Developer & Data Analyst",
   "description": [
-    "[Your first description about yourself]",
-    "[Your second description about yourself]",
-    "[Your interests or hobbies]"
+    "I am a passionate Full Stack Developer with experience in building scalable web applications using React.js, Node.js, and Firebase.",
+    "I have worked on multiple projects including task management apps, project management tools, and portfolio websites with a focus on clean UI/UX design.",
+    "Apart from coding, I enjoy learning about data analytics, exploring new technologies, and maintaining discipline through fitness and running."
   ],
   "social": {
-    "linkedin": "https://www.linkedin.com/in/your-linkedin-profile",
-    "github": "https://github.com/your-github-profile"
+    "linkedin": "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile",
+    "github": "https://github.com/charan-coder"
   }
 }
