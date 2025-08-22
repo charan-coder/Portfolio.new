@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "institution": "J.C. Bose University of Science and Technology, YMCA, Faridabad",
+      "degree": "Bachelor of Technology in Computer Science",
+      "period": "2019 - 2023",
+      "description": "Graduated with strong foundation in Computer Science, focusing on web development, software engineering, and full-stack technologies."
+    },
+    {
+      "institution": "Senior Secondary (12th), HBSE",
+      "degree": "Non-Medical (PCM + Computer Science)",
+      "period": "2018 - 2019",
+      "description": "Completed higher secondary education with focus on Physics, Chemistry, Mathematics, and Computer Science."
+    },
+    {
+      "institution": "Secondary (10th), HBSE",
+      "degree": "Matriculation",
+      "period": "2016 - 2017",
+      "description": "Completed foundational schooling with distinction."
+    }
+  ]
+}

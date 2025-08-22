@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "title": "Joy of computing using python",
+      "platform": "Indian Institute of Technology MADRAS",
+      "date": "2023",
+      "imageUrl": "/imges/Thejoy.jpeg",
+      "credentialUrl": "https://drive.google.com/file/d/1sPDSRL8Bcc8Xk3LgowZgunFjwBU2zune/view?usp=drive_link",
+      "category": "tech"
+    },
+    {
+      "title": "Data Analytics with python",
+      "platform": "Indian Institute of Technology Roorkee",
+      "date": "2023",
+      "expiration": null,
+      "imageUrl": "/imges/data.jpeg",
+      "credentialUrl": "https://drive.google.com/file/d/1uFuaZXizUvRKhny4l4g4xT3efUYIO6XU/view?usp=drive_link",
+      "category": "tech"
+    },
+    {
+      "title": "Soft skills",
+      "platform": "Indian Institute of Technology Roorkee",
+      "date": "2024",
+      "expiration": null,
+      "imageUrl": "/imges/Soft skills.jpeg",
+      "credentialUrl": "https://drive.google.com/file/d/1mJ34UfPLC2b4SfY4O0YIOH9mstwErGUT/view?usp=drive_link",
+      "category": "tech"
+    },
+    {
+      "title": "Project Competiton",
+      "platform": "NGFCET TECHNICAL CLUB",
+      "date": "2023",
+      "expiration": null,
+      "imageUrl": "/imges/RGF.jpg",
+      "credentialUrl": "https://drive.google.com/file/d/1UyD3eYkeeSepbVBhW8nCFWI53SQtUwJl/view?usp=drive_link",
+      "category": "tech"
+    },
+    {
+      "title": "Air Polution",
+      "platform": "Indian Institute of Technology Roorkee",
+      "date": "2025",
+      "expiration": null,
+      "imageUrl": "/imges/Air.PNG",
+      "credentialUrl": "https://drive.google.com/file/d/1aNP8YcYhe_2M-jvQHggb0KUN9U-wRZ_L/view?usp=drive_link",
+      "category": ""
+    }
+  ]
+}

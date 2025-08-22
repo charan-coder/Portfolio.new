@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "title": "Full Stack Developer Intern",
+      "company": "Virtuetech, Noida",
+      "period": "Jan 2024 - oct 2024",
+      "details": [
+        "Developed and maintained web applications using React.js, Node.js, and Firebase, ensuring scalable and efficient performance.",
+        "Implemented REST APIs and integrated authentication systems to improve user experience and data security.",
+        "Collaborated with senior developers to design and deploy new features, reducing bug occurrences by 20%.",
+        "Worked on optimizing database queries and application performance for faster load times."
+      ]
+    },
+    {
+      "title": "Full Stack Developer (Freelance Projects)",
+      "company": "Self-Employed",
+      "period": "feb - may 2025",
+      "details": [
+        "Developed DoIt – a task management web app with authentication, Kanban-style board, and real-time updates using React.js and Firebase.",
+        "Built a ClickUp-inspired Project Management App with team collaboration features and Firebase backend.",
+        "Created a responsive Personal Portfolio website showcasing projects, skills, and achievements with modern UI/UX design.",
+        "Integrated third-party APIs and deployed applications on cloud platforms for live demonstration."
+      ]
+    }
+  ]
+}
